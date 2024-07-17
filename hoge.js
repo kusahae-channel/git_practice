@@ -1,3 +1,3 @@
-import { isSjDomain } from 'utils/domain'
+import { isSjDomain , isKsDomain} from 'utils/domain'
 
 console.log("aaa");
